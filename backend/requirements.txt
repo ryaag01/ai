@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+openai
+autogen
+requests
+pydantic
+python-dotenv
+tqdm
+docker
+huggingface-hub
+transformers
+torch
+Pillow
+numpy
